@@ -22,6 +22,8 @@ import com.zhoujian.zhbj.utils.CacheUtils;
  */
 public class WelcomeUI extends Activity {
 //修改1
+    //修改2
+    //修改3
     public static final String IS_FIRST = "is_first";
     private View mRootView;//welcomeui根布局
     private static final long DURATION = 1000;//动画时长
